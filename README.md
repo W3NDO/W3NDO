@@ -20,7 +20,6 @@
 
   - Phoenix & Elixir and the greater functional language paradigm
   - Distributed Systems
-  - Clean architecture
   - TDD
   
 </div>
@@ -29,18 +28,16 @@
 <div>
 
   ## 🛠️ &nbsp;My Tech Stacks
-
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=flat&logo=ruby)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)&nbsp;
-  ![Elixir](https://img.shields.io/badge/-Elixir-0D1117?style=flat&logo=elixir)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-
+  
+  ![Ruby](https://img.shields.io/badge/-Ruby-055E09?style=flat&logo=ruby)&nbsp;
+  ![Elixir](https://img.shields.io/badge/-Elixir-055E09?style=flat&logo=elixir)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-055E09?style=flat&logo=docker)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-055E09?style=flat&logo=git)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-055E09?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-055E09?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-055E09?style=flat&logo=node.js)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-055E09?style=flat&logo=postgresql)&nbsp;
+  
 </div>
 
 
@@ -65,9 +62,5 @@
 </div>
 
 <div>
- I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev </a> **
+ I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev. </a> Maybe you would like to see my thoughts on <a href="https://dev.to/w3ndo/why-i-enjoy-conventional-commits-5d5d" target="blank"> Conventional Commits ? <a> Or perhaps you want to see how excited I was when I figured out the versatility of the <a href="https://dev.to/w3ndo/today-i-learned-about-the-splat-operator-in-ruby-376g" target="blank"> splat operator in Ruby </a>
 </div>
-
-
-
-<!-- ## 📚 &nbsp;My Projects -->
