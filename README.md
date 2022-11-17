@@ -45,10 +45,10 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/W3NDO">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=W3NDO&theme=olive-green&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="W3NDO" src="https://github-readme-stats.vercel.app/api?username=W3NDO&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/W3NDO">
-    <img align="center" alt="W3NDO's recap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3NDO&theme=oliv-green&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="W3NDO's recap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3NDO&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
