@@ -26,8 +26,13 @@
 
 
 <div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
+  
+  ## 🛠️ &nbsp;Tools I can use
+  
+  I primarily work with Ruby and Ruby on rails
+  
+  
+  I am, however, well versed with the following.
   
   ![Ruby](https://img.shields.io/badge/-Ruby-055E09?style=flat&logo=ruby)&nbsp;
   ![Elixir](https://img.shields.io/badge/-Elixir-055E09?style=flat&logo=elixir)&nbsp;
