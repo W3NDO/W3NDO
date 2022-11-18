@@ -50,6 +50,9 @@
   <a href="https://github.com/W3NDO">
     <img align="center" alt="W3NDO's recap" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3NDO&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
+  <a href="https://www.codewars.com/users/W3NDO" target="blank">
+     <img width=450 height=170 align="center" alt="codewars badge" src="https://www.codewars.com/users/W3NDO/badges/large" />
+  </a>
 </div>
 
 <div>
@@ -64,3 +67,5 @@
 <div>
  I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev. </a> Maybe you would like to see my thoughts on <a href="https://dev.to/w3ndo/why-i-enjoy-conventional-commits-5d5d" target="blank"> Conventional Commits ? <a> Or perhaps you want to see how excited I was when I figured out the versatility of the <a href="https://dev.to/w3ndo/today-i-learned-about-the-splat-operator-in-ruby-376g" target="blank"> splat operator in Ruby </a>
 </div>
+  
+ 
