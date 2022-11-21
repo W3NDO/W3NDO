@@ -18,7 +18,7 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - Phoenix & Elixir and the greater functional language paradigm
+  - Elixir( & Phoenix ) and the greater functional language paradigm
   - Distributed Systems
   - TDD
   
