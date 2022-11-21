@@ -34,14 +34,14 @@
   
   I am, however, well versed with the following.
   
-  ![Ruby](https://img.shields.io/badge/-Ruby-055E09?style=flat&logo=ruby)&nbsp;
-  ![Elixir](https://img.shields.io/badge/-Elixir-055E09?style=flat&logo=elixir)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-055E09?style=flat&logo=docker)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-055E09?style=flat&logo=git)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-055E09?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-055E09?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-055E09?style=flat&logo=node.js)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-055E09?style=flat&logo=postgresql)&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-033905?style=flat&logo=ruby)&nbsp;
+  ![Elixir](https://img.shields.io/badge/-Elixir-033905?style=flat&logo=elixir)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-033905?style=flat&logo=docker)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-033905?style=flat&logo=git)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-033905?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-033905?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-033905?style=flat&logo=postgresql)&nbsp;
   
 </div>
 
