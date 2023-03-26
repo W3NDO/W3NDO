@@ -42,17 +42,11 @@
   ![CSS](https://img.shields.io/badge/-CSS-033905?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-033905?style=flat&logo=postgresql)&nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-033905?style=flat&logo=flutter)&nbsp;
+  ![Dart](https://img.shields.io/badge/-Dart-033905?style=flat&logo=dart)&nbsp;
   
 </div>
 
-
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://www.codewars.com/users/W3NDO" target="blank">
-     <img width=450 height=170 align="center" alt="codewars badge" src="https://www.codewars.com/users/W3NDO/badges/large" />
-  </a>
-</div>
 
 <div>
 
