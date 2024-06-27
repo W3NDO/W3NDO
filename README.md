@@ -6,8 +6,9 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Computer Science Graduate
-  - 🔭 I'm currently working as a Rails Developer
-  - 🌱  Proficient in **Ruby**, **Rails** & **Javascript**.
+  - 📚 Masters student
+  - 🔭 Rails Developer
+  - 🌱  Proficient in **Ruby**, **Rails**, **Javascript** && **Erlang**.
 
 
   <br>
@@ -16,7 +17,7 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently studying
+  ## 📚 &nbsp;Currently learning
 
   - Elixir( & Phoenix ) and the greater functional language paradigm
   - Distributed Systems
@@ -35,12 +36,14 @@
   I am, however, well versed with the following.
   
   ![Ruby](https://img.shields.io/badge/-Ruby-033905?style=flat&logo=ruby)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
+  ![Erlang](https://img.shields.io/badge/-Erlang-033905?style=flat&logo=erlang)&nbsp;
   ![Elixir](https://img.shields.io/badge/-Elixir-033905?style=flat&logo=elixir)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-033905?style=flat&logo=docker)&nbsp;
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-033905?style=flat&logo=kubernetes)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-033905?style=flat&logo=git)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-033905?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-033905?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-033905?style=flat&logo=postgresql)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-033905?style=flat&logo=flutter)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-033905?style=flat&logo=dart)&nbsp;
