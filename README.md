@@ -58,7 +58,7 @@
 </div>
 
 <div>
- I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev. </a> Maybe you would like to see my thoughts on <a href="https://dev.to/w3ndo/why-i-enjoy-conventional-commits-5d5d" target="blank"> Conventional Commits ? <a> Or perhaps you want to see how excited I was when I figured out the versatility of the <a href="https://dev.to/w3ndo/today-i-learned-about-the-splat-operator-in-ruby-376g" target="blank"> splat operator in Ruby </a>
+ I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev. </a> Maybe you would like to see my thoughts on <a href="https://dev.to/w3ndo/why-i-enjoy-conventional-commits-5d5d" target="blank"> Conventional Commits ? <a> Or perhaps you want to see how excited I was when I figured out the versatility of the <a href="https://dev.to/w3ndo/today-i-learned-about-the-splat-operator-in-ruby-376g" target="blank"> splat operator in Ruby </a> Maybe you're more database oriented and you want to learn how you can beat the sneaky <a href="https://dev.to/w3ndo/n1-and-general-query-optimization-k6o" target="blank"> N+1 issue </a> in Rails?
 </div>
   
  
