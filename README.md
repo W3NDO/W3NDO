@@ -36,9 +36,9 @@
   I am, however, well versed with the following.
   
   ![Ruby](https://img.shields.io/badge/-Ruby-033905?style=flat&logo=ruby)&nbsp;
+  ![Elixir](https://img.shields.io/badge/-Elixir-033905?style=flat&logo=elixir)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
   ![Erlang](https://img.shields.io/badge/-Erlang-033905?style=flat&logo=erlang)&nbsp;
-  ![Elixir](https://img.shields.io/badge/-Elixir-033905?style=flat&logo=elixir)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-033905?style=flat&logo=docker)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-033905?style=flat&logo=kubernetes)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-033905?style=flat&logo=git)&nbsp;
