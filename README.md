@@ -8,7 +8,7 @@
   - 📚 Computer Science Graduate
   - 📚 Masters student
   - 🔭 Rails Developer
-  - 🌱  Proficient in **Ruby**, **Rails**, **Javascript** && **Erlang**.
+  - 🌱  Proficient in **Ruby**, **Rails**, **Javascript**, **Elixir** && **Erlang**.
 
 
   <br>
