@@ -30,7 +30,7 @@
   
   ## 🛠️ &nbsp;Tools I can use
   
-  I primarily work with Ruby and Ruby on rails
+  I primarily work with Ruby on rails but I have also been enjoying exploring Elixir
   
   
   I am, however, well versed with the following.
