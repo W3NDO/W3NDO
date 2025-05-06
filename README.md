@@ -5,9 +5,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Computer Science Graduate
-  - 📚 Masters student
-  - 🔭 Rails Developer
+  - 🔭 Ruby and Elixir Developer
   - 🌱  Proficient in **Ruby**, **Rails**, **Javascript**, **Elixir** && **Erlang**.
 
 
@@ -17,7 +15,7 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently learning
+  ## 📚 &nbsp;Currently enjoying
 
   - Elixir( & Phoenix ) and the greater functional language paradigm
   - Distributed Systems
@@ -30,7 +28,7 @@
   
   ## 🛠️ &nbsp;Tools I can use
   
-  I primarily work with Ruby on rails but I have also been enjoying exploring Elixir
+  I primarily work with Ruby on rails and Elixir
   
   
   I am, however, well versed with the following.
