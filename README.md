@@ -1,65 +1,18 @@
-### Hi there 👋, I am W3NDO
+# 💫 About Me:
+- 🔭 Ruby and Elixir Developer<br>- 🌱  Proficient in **Ruby**, **Rails**, **Javascript**, **Elixir** && **Erlang**.<br><br>I am currently learning more about Elixir and how it can be used for machine learning and data science tasks.<br>Ask me about Ruby on Rails, RSpec & TDD<br>
 
 
-<div>
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/w3ndo_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wendonyang+github@gmail.com) 
 
-  ## 🧭 &nbsp;About Me
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![Arango DB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=W3NDO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=W3NDO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=W3NDO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  - 🔭 Ruby and Elixir Developer
-  - 🌱  Proficient in **Ruby**, **Rails**, **Javascript**, **Elixir** && **Erlang**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=W3NDO&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-  <br>
-  
-</div>
-
-<div>
-
-  ## 📚 &nbsp;Currently enjoying
-
-  - Elixir( & Phoenix ) and the greater functional language paradigm
-  - Distributed Systems
-  - TDD
-  
-</div>
-
-
-<div>
-  
-  ## 🛠️ &nbsp;Tools I can use
-  
-  I primarily work with Ruby on rails and Elixir
-  
-  
-  I am, however, well versed with the following.
-  
-  ![Ruby](https://img.shields.io/badge/-Ruby-033905?style=flat&logo=ruby)&nbsp;
-  ![Elixir](https://img.shields.io/badge/-Elixir-033905?style=flat&logo=elixir)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-033905?style=flat&logo=node.js)&nbsp;
-  ![Erlang](https://img.shields.io/badge/-Erlang-033905?style=flat&logo=erlang)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-033905?style=flat&logo=docker)&nbsp;
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-033905?style=flat&logo=kubernetes)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-033905?style=flat&logo=git)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-033905?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-033905?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-033905?style=flat&logo=postgresql)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-033905?style=flat&logo=flutter)&nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-033905?style=flat&logo=dart)&nbsp;
-  
-</div>
-
-
-<div>
-
-  ## 📫 &nbsp;My Contacts
-
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-wendo-bb0547171/)](https://www.linkedin.com/in/patrick-wendo-bb0547171/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:wendonyang+github@gmail.com)&nbsp;
-
-</div>
-
-<div>
- I also write about my exploits during my journey as a developer on <a href="https://dev.to/w3ndo" target="_blank"> Dev. </a> Maybe you would like to see my thoughts on <a href="https://dev.to/w3ndo/why-i-enjoy-conventional-commits-5d5d" target="blank"> Conventional Commits ? <a> Or perhaps you want to see how excited I was when I figured out the versatility of the <a href="https://dev.to/w3ndo/today-i-learned-about-the-splat-operator-in-ruby-376g" target="blank"> splat operator in Ruby </a> Maybe you're more database oriented and you want to learn how you can beat the sneaky <a href="https://dev.to/w3ndo/n1-and-general-query-optimization-k6o" target="blank"> N+1 issue </a> in Rails?
-</div>
-  
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
