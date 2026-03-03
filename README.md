@@ -1,7 +1,7 @@
 # About Me:
 - Ruby and Elixir Developer<br>
 - Proficient in **Ruby**, **Rails**, **Elixir** & **Javascript**.<br><br>
-- I am currently learning more about Godot for game development.<br>
+- I am currently learning more about Godot for game development and building game servers with Elixir.<br>
 - Ask me about Ruby on Rails, Elixir, RSpec & TDD<br>
 
 
