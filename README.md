@@ -19,5 +19,5 @@
 [Space Couriers](https://github.com/W3NDO/space_courier) A cosy, web-based game built with Elixir and Phoenix LiveView. Players act as courier travelling across our solar system, customizing their ships to deliver vital goods between space ports.
 
 ### FEB - MAR
-[JAMMED](https://github.com/W3NDO/jammed) A traffic control game built with Godot with sprites from [Pixelianska](https://pixelianska.itch.io/), [MadFireOn](https://swapnilrane24.itch.io/), [Marceles](https://marceles.itch.io/) and music by me on [bandlab](https://www.bandlab.com/track/95fff0b2-69c4-4302-bd40-9854c4741f78?revId=645ad3d0-86dd-48c0-a980-7b4166d4feb1)
+[Boids](https://github.com/W3NDO/boids) A boid simulation built with ecsx in elixir and deployed to [gigalixir](https://boids-with-ecsx.gigalixirapp.com/). Project was to learn how to use systems and components from ECSx to develop emergent behaviour. 
 
