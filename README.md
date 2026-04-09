@@ -21,3 +21,6 @@
 ### FEB - MAR
 [Boids](https://github.com/W3NDO/boids) A boid simulation built with ecsx in elixir and deployed to [gigalixir](https://boids-with-ecsx.gigalixirapp.com/). Project was to learn how to use systems and components from ECSx to develop emergent behaviour. 
 
+
+### MAR - APR
+[conventional_commits](https://github.com/W3NDO/conventional_commits) A mix task that lets user's write conventional commits for their code. Is now an [elixir package](https://hex.pm/packages/conventional_commits). Project was to learn how to build custom mix tasks and deploy packages to hex.
